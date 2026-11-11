@@ -1,0 +1,5 @@
+{
+  "appId": "com.yourname.fixfirst",
+  "appName": "Fixfirst",
+  "webDir": "client/dist"
+}
